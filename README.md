@@ -23,10 +23,10 @@
 <br>
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=eminesenaa&show_icons=true&locale=en&layout=compact" alt="eminesenaa" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=eminesenaa&show_icons=true&locale=en" alt="eminesenaa" />
+  <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminesenaa&show_icons=true&locale=en&layout=compact" alt="eminesenaa" />
+  <img  height="150px"  src="https://github-readme-stats.vercel.app/api?username=eminesenaa&show_icons=true&locale=en" alt="eminesenaa" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eminesenaa&" alt="eminesenaa" />
+  <img  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=eminesenaa&" alt="eminesenaa" />
 </p>
