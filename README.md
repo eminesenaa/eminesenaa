@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sena 👩🏻‍💻 </h1>
-<h3 align="center">I am a third-year computer engineering student passionate about learning new technologies and applying them to practical projects. My objective is to deepen my knowledge in these areas and contribute to impactful projects that make a difference.</h3> <br>
+<h1 align="center">Hi! I'm Sena 👩🏻‍💻 </h1>
+<h3 align="center">I am a third-year computer engineering student passionate about learning new technologies and applying them to practical projects. My objective is to deepen my knowledge in the areas I am interested in and contribute to impactful projects that make a difference.</h3> <br>
 
 - 🔭 I’m currently working on **Data Science and Mobile Development.**
 
