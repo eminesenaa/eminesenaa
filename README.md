@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sena 👩🏻‍💻 </h1>
-<h3 align="center">I'm a third-year computer engineering student exploring the fields of data science, simulation, and mobile app development. I'm passionate about learning new technologies and applying them to practical projects. My objective is to deepen my knowledge in these areas and contribute to impactful projects that make a difference.</h3>
+<h3 align="center">I am a third-year computer engineering student passionate about learning new technologies and applying them to practical projects. My objective is to deepen my knowledge in these areas and contribute to impactful projects that make a difference.</h3> <br>
 
 - 🔭 I’m currently working on **Data Science and Mobile Development.**
 
-- 🌱 I’m currently learning **to develop simulations using Unreal Engine.**
+- 🌱 I’m currently learning **simulation development using Unreal Engine.**
 
 
 <h3 align="left">Languages and Tools:</h3>
