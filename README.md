@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science and Mobile Development.**
 
-- 🌱 I’m currently learning **simulation development using Unreal Engine.**
+- 🌱 I’m currently learning **Network System Management.**
 
 
 <h3 align="left">Languages and Tools:</h3>
